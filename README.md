@@ -1,3 +1,7 @@
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=DevM7mdAli&label=Profile%20views&color=000000&style=plastic" alt="DevM7mdAli" /> 
+</p>
+
 <div align="center">
 
 # Who am I🤔?
