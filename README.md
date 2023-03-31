@@ -1,8 +1,10 @@
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=DevM7mdAli&label=Profile%20views&color=000000&style=plastic" alt="DevM7mdAli" /> 
-</p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=DevM7mdAli&label=Profile%20Views&color=12&icon=2&pretty=true" align = "right"/>
+</a> 
+
 
 <div align="center">
+
 
 # Who am I🤔?
 - My name is Mohammed Ali a freshman student at IAU CCSIT 👨🏻‍💻
