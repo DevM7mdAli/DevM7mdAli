@@ -7,7 +7,7 @@
 
 
 # Who am I🤔?
-- My name is Mohammed Ali a freshman student at IAU CCSIT 👨🏻‍💻
+- My name is Mohammed Alajmi a freshman student at IAU CCSIT 👨🏻‍💻
 -	interested in Mobile Software Development📱 , HardWare💻, Cybersecurity 🔐 And Web Development 🌐
 -	Currently I am learning Flutter Framework.
 
@@ -48,11 +48,13 @@
 
 
 
-# My status 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DevM7mdALI&theme=dark&hide_border=true)](https://git.io/streak-stats)
+# My Stats📊:
+[![GitHub Streak](https://streak-stats.demolab.com?user=DevM7mdALI&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevM7mdAli&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevM7mdAli&layout=compact&theme=vision-friendly-dark&border=false&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# My CodeWars
+# My CodeWars:
 [![CodeWars](https://www.codewars.com/users/DevM7mdAli/badges/large)](https://www.codewars.com/users/DevM7mdAli)
 
 </div>
