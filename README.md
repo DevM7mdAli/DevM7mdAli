@@ -40,9 +40,9 @@ Currently Learning NextJs , React , Tailwind.</b>
 
 
 # My Stats<img src = "https://media2.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif?cid=6c09b95221hbz3noua8unadww97wxrgfwesrv5msxql49t3a&ep=v1_stickers_related&rid=giphy.gif&ct=s" width = "45px">:
-[![GitHub Streak](https://streak-stats.demolab.com?user=DevM7mdALI&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevM7mdAli&show_icons=true&theme=vision-friendly-dark&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevM7mdAli&layout=compact&theme=vision-friendly-dark&border=false&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DevM7mdALI&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevM7mdAli&show_icons=true&theme=holi&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevM7mdAli&layout=compact&theme=holi&border=false&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![CodeWars](https://www.codewars.com/users/DevM7mdAli/badges/large)](https://www.codewars.com/users/DevM7mdAli)
 
 </div>
