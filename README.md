@@ -16,7 +16,7 @@ Currently Learning NextJs , React , Tailwind.</b>
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/DevM7mdAli#0001)
 
 
-# Tech Stack:<img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXY5OTVxNmVweXVsczkxMDEybWpna3JxazljcXhxdzhtMjhiM2s2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cYU6YcPE5YlJxh6otp/giphy.gif" width = "38">:
+# Tech Stack<img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXY5OTVxNmVweXVsczkxMDEybWpna3JxazljcXhxdzhtMjhiM2s2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cYU6YcPE5YlJxh6otp/giphy.gif" width = "38">:
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
