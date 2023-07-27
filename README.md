@@ -12,7 +12,6 @@ Currently Learning NextJs , React , Tailwind.</b>
 ## Contact Me<img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJyZ3h0MTY2MDlvZHA1ZTRyeHF3bnJpMjh1OHNtdHZzenh6NmN0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WqXjQsd0MAhc2CvtkQ/giphy.gif" width = "30px">:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DevM7mdAli) 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-alajmi-b5a327206/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devm7mdali/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/DevM7mdAli#0001)
 
 
