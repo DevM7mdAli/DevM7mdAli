@@ -6,13 +6,13 @@
 
 <b>My name is Mohammed Alajmi a Sophomore student at IAU CCSIT<br> 👨🏻‍💻
 interested in Mobile Software Development📱 , HardWare💻, Cybersecurity 🔐 And Web Development 🌐<br>
-Currently Learning NextJs , React , Tailwind.</b>
+</b>
 
 
 ## Contact Me<img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJyZ3h0MTY2MDlvZHA1ZTRyeHF3bnJpMjh1OHNtdHZzenh6NmN0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WqXjQsd0MAhc2CvtkQ/giphy.gif" width = "30px">:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DevM7mdAli) 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-alajmi-b5a327206/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/DevM7mdAli#0001)
+
 
 
 # Tech Stack<img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXY5OTVxNmVweXVsczkxMDEybWpna3JxazljcXhxdzhtMjhiM2s2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cYU6YcPE5YlJxh6otp/giphy.gif" width = "38">:
@@ -32,6 +32,9 @@ Currently Learning NextJs , React , Tailwind.</b>
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![FireBase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
 
 ## OS<img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRjeHlmOG51OWthZTJwaW1icjU3YTZmamp5b3Fua2EzNHEyODFpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssRqdp4BgLk8GMKiu/giphy.gif" width = "29px">:
 [![Kali linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
@@ -39,11 +42,18 @@ Currently Learning NextJs , React , Tailwind.</b>
 
 
 # My Stats<img src = "https://media2.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif?cid=6c09b95221hbz3noua8unadww97wxrgfwesrv5msxql49t3a&ep=v1_stickers_related&rid=giphy.gif&ct=s" width = "45px">:
-[![GitHub Streak](https://streak-stats.demolab.com?user=DevM7mdALI&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevM7mdAli&show_icons=true&theme=holi&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevM7mdAli&layout=compact&theme=holi&border=false&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![CodeWars](https://www.codewars.com/users/DevM7mdAli/badges/large)](https://www.codewars.com/users/DevM7mdAli)
-
+<details>
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=DevM7mdALI&theme=holi-theme&hide_border=true" alt="GitHub Streak">
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=DevM7mdAli&show_icons=true&theme=holi&hide_border=true" alt="Anurag's GitHub stats">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevM7mdAli&layout=compact&theme=holi&border=false&hide_border=true" alt="Top Languages">
+    </a>
+    <a href="https://www.codewars.com/users/DevM7mdAli">
+        <img src="https://www.codewars.com/users/DevM7mdAli/badges/large" alt="CodeWars">
+    </a>
+</details>
 </div>
 
 
