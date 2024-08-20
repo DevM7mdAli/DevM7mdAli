@@ -20,6 +20,7 @@ interested in Mobile Software Development📱 , HardWare💻, Cybersecurity 🔐
 [![FormFully](https://img.shields.io/badge/FormFully-8A2BE2?style=for-the-badge)](https://chromewebstore.google.com/detail/formfully/ojlpggfkjhgadcjdmkgdmpilhmnghlmj)
 [![Portfolio](https://img.shields.io/badge/My_portfolio-081f3d?style=for-the-badge)](https://DevM7mdAli.github.io)
 [![Pray Time](https://img.shields.io/badge/pray%20times-09d8cc?style=for-the-badge)](https://devm7mdali.github.io/Pray-Times/)
+[![AI-Buddy](https://img.shields.io/badge/AI_Buddyy-8A2BE2?style=for-the-badge)](https://ai-buddy-gamma.vercel.app/)
 
 
 # My Stats<img src = "https://media2.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif?cid=6c09b95221hbz3noua8unadww97wxrgfwesrv5msxql49t3a&ep=v1_stickers_related&rid=giphy.gif&ct=s" width = "45px">:
