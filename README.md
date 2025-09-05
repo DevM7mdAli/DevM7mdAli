@@ -1,6 +1,7 @@
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient!height=400&section=header" align = "center">
 
-# Hi There <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width = "30px"> <img src="https://visitcount.itsvg.in/api?id=DevM7mdAli&label=Profile%20Views&color=12&icon=2&pretty=true" align = "right"/>
+# Hi There <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width = "30px"> <img src="https://wakatime.com/badge/user/ac5e1406-0d0c-40ac-9bce-910463ce55f2.svg" align = "right"/>
+
 
 <div align="center">
 
